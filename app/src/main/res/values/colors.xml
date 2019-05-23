@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1ABC9C</color>
+    <color name="colorPrimaryDark">#16A085</color>
+    <color name="colorAccent">#C0392B</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorTransparentWhite">#CCCCCC</color>
+
+
+    <!--<color name="colorPrimary">#ffffff</color>-->
+    <!--<color name="colorPrimaryDark">#ffffff</color>-->
+    <!--<color name="colorAccent">#ffffff</color>-->
+
+    <!-- warna untuk tombol -->
+    <color name="gradient_start_color">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>\
+
+    <!-- warna untuk tab dan teks screen -->
+    <color name="tab_indicator">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+
+</resources>
